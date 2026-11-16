@@ -11,7 +11,7 @@ class Program
  }
  else
  {
- Console.WriteLine("Привет, " + name + "!");
+ Console.WriteLine("Здравствуйте, " + name + "!");
  }
  }
 }
